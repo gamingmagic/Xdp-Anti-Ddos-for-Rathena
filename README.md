@@ -30,7 +30,7 @@ This repository provides an **XDP/eBPF** program to **early-drop** unwanted TCP 
 | 70 Gbps         | 65%         | \~20–25M     | 3–4                        |
 | 100 Gbps        | 60–70%      | \~30–40M     | 4–6                        |
 
-https://github.com/user-attachments/assets/4d98629b-c72d-41c0-bc64-703296942a72
+
 
 ## Features
 
