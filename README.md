@@ -11,7 +11,7 @@ This repository provides an **XDP/eBPF** program to **early-drop** unwanted TCP 
 
 ### Without OVH Protection
 
-| Target PPS (Millions) | Approx. Gbps | CPU Cores Needed (your XDP logic) |
+| Target PPS (Millions) | Approx. Gbps | CPU Cores Needed (rAthena XDP) |
 | --------------------- | ------------ | --------------------------------- |
 | 10M                   | \~6.7 Gbps   | 1                                 |
 | 30M                   | \~20 Gbps    | 3–4                               |
