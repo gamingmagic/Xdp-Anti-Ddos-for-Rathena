@@ -1,6 +1,6 @@
 # rAthena XDP DDoS Filter
 
-**Setup Services:** We offer professional server setup for the rAthena XDP DDoS Filter at **USD \$200 per server**.
+**Setup Services:** We offer server setup for the rAthena XDP DDoS Filter at **USD \$200 per server**.
 Join our Discord for support and inquiries: [https://discord.gg/NGkMaPEKJ9](https://discord.gg/NGkMaPEKJ9)
 
 ---
